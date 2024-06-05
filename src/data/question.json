@@ -1,0 +1,252 @@
+[
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "独自工作",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "与他人合作",
+        "key": "B"
+      },
+      {
+        "result": "I",
+        "value": "在安静的环境中工作",
+        "key": "C"
+      },
+      {
+        "result": "E",
+        "value": "在动态的环境中工作",
+        "key": "D"
+      }
+    ],
+    "title": "你通常更喜欢"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "喜欢有明确的计划",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "更愿意随机应变",
+        "key": "B"
+      },
+      {
+        "result": "J",
+        "value": "制定详细的步骤",
+        "key": "C"
+      },
+      {
+        "result": "P",
+        "value": "应对突发事件",
+        "key": "D"
+      }
+    ],
+    "title": "当安排活动时"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "认为应该严格遵守",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "认为应灵活运用",
+        "key": "B"
+      },
+      {
+        "result": "T",
+        "value": "遵循规则保证秩序",
+        "key": "C"
+      },
+      {
+        "result": "F",
+        "value": "根据情况调整规则",
+        "key": "D"
+      }
+    ],
+    "title": "你如何看待规则"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "经常是说话的人",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "更倾向于倾听",
+        "key": "B"
+      },
+      {
+        "result": "E",
+        "value": "喜欢与多人互动",
+        "key": "C"
+      },
+      {
+        "result": "I",
+        "value": "偏好一对一交流",
+        "key": "D"
+      }
+    ],
+    "title": "在社交场合中"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "先研究再行动",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "边做边学习",
+        "key": "B"
+      },
+      {
+        "result": "J",
+        "value": "通过反复思考解决问题",
+        "key": "C"
+      },
+      {
+        "result": "P",
+        "value": "通过实践学习解决问题",
+        "key": "D"
+      }
+    ],
+    "title": "面对新的挑战"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "注重细节和事实",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "注重概念和想象",
+        "key": "B"
+      },
+      {
+        "result": "S",
+        "value": "倾向于实际的解决方案",
+        "key": "C"
+      },
+      {
+        "result": "N",
+        "value": "倾向于创新的解决方案",
+        "key": "D"
+      }
+    ],
+    "title": "在日常生活中"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "更多基于逻辑分析",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "更多基于个人情感",
+        "key": "B"
+      },
+      {
+        "result": "T",
+        "value": "喜欢使用数据和事实",
+        "key": "C"
+      },
+      {
+        "result": "F",
+        "value": "喜欢考虑人际关系",
+        "key": "D"
+      }
+    ],
+    "title": "做决定时"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "喜欢有结构和常规",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "喜欢自由和灵活性",
+        "key": "B"
+      },
+      {
+        "result": "S",
+        "value": "遵循既定的流程",
+        "key": "C"
+      },
+      {
+        "result": "N",
+        "value": "探索新的方法",
+        "key": "D"
+      }
+    ],
+    "title": "对于日常安排"
+  },
+  {
+    "options": [
+      {
+        "result": "P",
+        "value": "首先考虑可能性",
+        "key": "A"
+      },
+      {
+        "result": "J",
+        "value": "首先考虑后果",
+        "key": "B"
+      },
+      {
+        "result": "P",
+        "value": "思考多种可能性",
+        "key": "C"
+      },
+      {
+        "result": "J",
+        "value": "计划后再执行",
+        "key": "D"
+      }
+    ],
+    "title": "当遇到问题时"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "时间是一种宝贵的资源",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "时间是相对灵活的概念",
+        "key": "B"
+      },
+      {
+        "result": "T",
+        "value": "时间是金钱",
+        "key": "C"
+      },
+      {
+        "result": "F",
+        "value": "时间可以自由支配",
+        "key": "D"
+      }
+    ],
+    "title": "你如何看待时间"
+  }
+]
